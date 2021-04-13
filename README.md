@@ -36,3 +36,5 @@
 
 [嵌入式软件工程师面试经验总结（附送秋招大礼包）](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E8%81%94%E5%8F%91%E7%A7%91%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E7%AD%8920%E5%AE%B6%E5%85%AC%E5%8F%B8%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93.md)
 ## PDF获取方式
+关注公众号【嵌入式与Linux那些事】，回复【秋招大礼包】即可获取。
+![](https://gitee.com/dongxingbo/Picture/raw/master/Wechat/%E5%8A%A8%E6%80%81%E5%BC%95%E5%AF%BC%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8F%B7.gif)
