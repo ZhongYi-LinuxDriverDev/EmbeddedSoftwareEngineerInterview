@@ -13,6 +13,7 @@
 # 嵌入式软件工程师笔试面试指南（EmbeddedSoftwareEngineerInterview）
 
 > [CSDN](https://blog.csdn.net/qq_16933601/article/list/1)
+> [CSDN](https://img.shields.io/badge/CSDN-%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%B8%8ELinun%E9%82%A3%E4%BA%9B%E4%BA%8B-green)
 > 
 >  [公众号](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 >  
