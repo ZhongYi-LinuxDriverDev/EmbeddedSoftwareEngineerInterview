@@ -8,7 +8,7 @@
 > [博客园](https://www.cnblogs.com/dongxb/)
 
 
-[TOC]
+
 
 嵌入式软件工程师笔试面试指南
 # 嵌入式软件笔试面试知识点总结
