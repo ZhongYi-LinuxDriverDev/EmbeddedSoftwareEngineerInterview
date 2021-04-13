@@ -65,7 +65,7 @@
 ## 面经总结
 [嵌入式软件工程师的秋招之路](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E7%A7%8B%E6%8B%9B%E4%B9%8B%E8%B7%AF.md)
 
-[嵌入式软件工程师面试经验总结（附送秋招大礼包）](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E8%81%94%E5%8F%91%E7%A7%91%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E7%AD%8920%E5%AE%B6%E5%85%AC%E5%8F%B8%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93.md)
+[嵌入式软件工程师面试经验总结](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E8%81%94%E5%8F%91%E7%A7%91%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E7%AD%8920%E5%AE%B6%E5%85%AC%E5%8F%B8%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93.md)
 ## PDF获取方式
 加我微信【LinuxDriverDev】，进技术交流群。
 
