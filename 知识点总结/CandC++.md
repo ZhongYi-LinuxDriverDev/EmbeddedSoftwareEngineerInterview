@@ -110,7 +110,7 @@
     - [C++中如何阻止一个类被实例化？](#c中如何阻止一个类被实例化)
     
 # PDF获取方式
-关注公众号【嵌入式与Linux那些事】，回复【秋招大礼包】即可获取。
+关注公众号【**嵌入式与Linux那些事**】，回复【**秋招大礼包**】即可获取。
 ![](https://gitee.com/dongxingbo/Picture/raw/master/Wechat/%E5%8A%A8%E6%80%81%E5%BC%95%E5%AF%BC%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8F%B7.gif)
 
 # C/C++
