@@ -13,6 +13,7 @@
 嵌入式软件工程师笔试面试指南
 # 嵌入式软件笔试面试知识点总结
 ## C/C++
+[C/C++总结](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/CandC%2B%2B.md)
 ## 数据结构与算法分析
 ## ARM体系与架构
 ## Linux驱动
