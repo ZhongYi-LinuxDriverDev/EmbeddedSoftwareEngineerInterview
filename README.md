@@ -18,9 +18,9 @@
 
 ## 嵌入式软件笔试面试知识点总结
 
-[C/C++总结](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/CandC%2B%2B.md)
+[C/C++](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/CandC%2B%2B.md)
 
-[数据结构与算法分析总结](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90.md)
+[数据结构与算法分析](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90.md)
 
 [ARM体系与架构](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/ARM%E4%BD%93%E7%B3%BB%E4%B8%8E%E6%9E%B6%E6%9E%84.md)
 
