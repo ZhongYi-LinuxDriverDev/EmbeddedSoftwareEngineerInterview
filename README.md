@@ -11,7 +11,8 @@
   - [面试技巧](#面试技巧)
   - [面经总结](#面经总结)
   - [PDF获取方式](#pdf获取方式)
-# EmbeddedSoftwareEngineerInterview
+# 嵌入式软件工程师笔试面试指南（EmbeddedSoftwareEngineerInterview）
+
 > [CSDN](https://blog.csdn.net/qq_16933601/article/list/1)
 > 
 >  [公众号](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxNDMxMA==&mid=2247483904&idx=1&sn=4e829f7e0b08750f1b83acd016154388&chksm=c0602ee9f717a7ff4d560b7023fc5971d864ea30646f762d95d71738344d99e3e85759325541&token=86324414&lang=zh_CN#rd)
@@ -23,7 +24,7 @@
 
 
 
-# 嵌入式软件工程师笔试面试指南
+
 ## 嵌入式软件笔试面试知识点总结
 ### C/C++
 [C/C++总结](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/CandC%2B%2B.md)
