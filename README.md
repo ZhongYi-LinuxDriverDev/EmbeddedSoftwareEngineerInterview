@@ -55,5 +55,5 @@
 
 ![](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E4%B8%AA%E4%BA%BA%E4%BA%8C%E7%BB%B4%E7%A0%81-%E7%BE%8E%E5%8C%96.png)
 
-关注公众号【嵌入式与Linux那些事】，回复【秋招大礼包】即可获取。
+关注公众号【嵌入式与Linux那些事】，回复【offer】即可获取。
 ![](https://gitee.com/dongxingbo/Picture/raw/master/Wechat/%E5%8A%A8%E6%80%81%E5%BC%95%E5%AF%BC%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8F%B7.gif)
