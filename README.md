@@ -4,6 +4,20 @@
   - [面试技巧](#面试技巧)
   - [面经总结](#面经总结)
   - [PDF获取方式](#pdf获取方式)
+  
+
+**申明：本资料部分内容转载自网络，请勿用于商业用途。如有侵权，请联系作者删除。**
+
+作者在准备秋招的过程中，整理了一些资料，最后顺利拿到了**小米，兆易创新，全志科技，海康威视**等十余家公司的offer。现将这部分资料分享出来，希望能对大家有帮助！
+
+如果大家在网上看到了不错的资料，或者在笔试面试中遇到了资料中没有的知识点，大家可以关注我的公众号联系我，及时反馈给我。资料如有错误或者不合适的地方，请及时联系作者。
+
+整理不易，**希望大家能给个star支持下**，让我有继续更新下去的动力。
+
+最后，祝各位老板，offer多多，钱多多，跳槽薪资double!
+
+
+
 # 嵌入式软件工程师笔试面试指南（EmbeddedSoftwareEngineerInterview）
 
 [![alt text](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%B8%8ELinux%E9%82%A3%E4%BA%9B%E4%BA%8B-blue)](#pdf获取方式)[![alt text](https://img.shields.io/badge/CSDN-%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%B8%8ELinux%E9%82%A3%E4%BA%9B%E4%BA%8B-lightgrey)](https://blog.csdn.net/qq_16933601?spm=1000.2115.3001.5343)[![alt text](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%B8%8ELinux%E9%82%A3%E4%BA%9B%E4%BA%8B-red)](https://www.cnblogs.com/dongxb/)[![alt text](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%B8%8ELinux%E9%82%A3%E4%BA%9B%E4%BA%8B-orange)](https://www.zhihu.com/people/simple-95-72)[![alt text](https://img.shields.io/badge/%E7%89%9B%E5%AE%A2-%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%B8%8ELinux%E9%82%A3%E4%BA%9B%E4%BA%8B-green)](https://www.nowcoder.com/profile/913155792)[![alt text](https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-%E7%A1%AC%E6%A0%B8%E5%A5%BD%E6%96%87-yellow)](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=Mzg5ODUxNDMxMA==&scene=23&album_id=1697392020677312514&count=3#wechat_redirect)[![alt text](https://img.shields.io/badge/PDF%E6%96%87%E6%A1%A3-%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%8F%96-brightgreen)](#pdf获取方式)
