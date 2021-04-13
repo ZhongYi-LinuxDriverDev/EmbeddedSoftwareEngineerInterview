@@ -1,5 +1,4 @@
-- [EmbeddedSoftwareEngineerInterview](#embeddedsoftwareengineerinterview)
-- [嵌入式软件工程师笔试面试指南](#嵌入式软件工程师笔试面试指南)
+- [嵌入式软件工程师笔试面试指南（EmbeddedSoftwareEngineerInterview）](#嵌入式软件工程师笔试面试指南embeddedsoftwareengineerinterview)
   - [嵌入式软件笔试面试知识点总结](#嵌入式软件笔试面试知识点总结)
     - [C/C++](#cc)
     - [数据结构与算法分析](#数据结构与算法分析)
@@ -15,7 +14,7 @@
 
 > [CSDN](https://blog.csdn.net/qq_16933601/article/list/1)
 > 
->  [公众号](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxNDMxMA==&mid=2247483904&idx=1&sn=4e829f7e0b08750f1b83acd016154388&chksm=c0602ee9f717a7ff4d560b7023fc5971d864ea30646f762d95d71738344d99e3e85759325541&token=86324414&lang=zh_CN#rd)
+>  [公众号](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 >  
 >  [知乎](https://www.zhihu.com/people/simple-95-72)
 >  
