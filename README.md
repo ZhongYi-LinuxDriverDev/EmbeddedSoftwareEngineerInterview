@@ -1,12 +1,5 @@
 - [嵌入式软件工程师笔试面试指南（EmbeddedSoftwareEngineerInterview）](#嵌入式软件工程师笔试面试指南embeddedsoftwareengineerinterview)
   - [嵌入式软件笔试面试知识点总结](#嵌入式软件笔试面试知识点总结)
-    - [C/C++](#cc)
-    - [数据结构与算法分析](#数据结构与算法分析)
-    - [ARM体系与架构](#arm体系与架构)
-    - [Linux驱动](#linux驱动)
-    - [操作系统](#操作系统)
-    - [网络编程](#网络编程)
-    - [名企最新面试真题](#名企最新面试真题)
   - [面试技巧](#面试技巧)
   - [面经总结](#面经总结)
   - [PDF获取方式](#pdf获取方式)
@@ -23,19 +16,19 @@
 
 
 ## 嵌入式软件笔试面试知识点总结
-### C/C++
+
 [C/C++总结](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/CandC%2B%2B.md)
-### 数据结构与算法分析
+
 [数据结构与算法分析总结](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90.md)
-### ARM体系与架构
+
 [ARM体系与架构](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/ARM%E4%BD%93%E7%B3%BB%E4%B8%8E%E6%9E%B6%E6%9E%84.md)
-### Linux驱动
+
 [Linux驱动](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/Linux%E9%A9%B1%E5%8A%A8.md)
-### 操作系统
+
 [操作系统](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
-### 网络编程
+
 [网络编程](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.md)
-### 名企最新面试真题
+
 [小米](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E5%90%8D%E4%BC%81%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98/%E5%B0%8F%E7%B1%B3%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%AC%94%E8%AF%95%E9%A2%98%E7%9B%AE%E8%A7%A3%E6%9E%90.md)
 
 [联发科](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E5%90%8D%E4%BC%81%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98/%E5%8C%97%E4%BA%AC%E8%81%94%E5%8F%91%E7%A7%91%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%AC%94%E8%AF%95%E9%A2%98%E7%9B%AE%E8%A7%A3%E6%9E%90.md)
