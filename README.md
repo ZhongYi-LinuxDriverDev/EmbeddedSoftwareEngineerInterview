@@ -12,9 +12,9 @@
   - [PDF获取方式](#pdf获取方式)
 # 嵌入式软件工程师笔试面试指南（EmbeddedSoftwareEngineerInterview）
 
- [![alt text](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%B8%8ELinux%E9%82%A3%E4%BA%9B%E4%BA%8B-green)](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+ [![alt text](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%B8%8ELinux%E9%82%A3%E4%BA%9B%E4%BA%8B-blue)](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
-[![alt text](https://img.shields.io/badge/CSDN-%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%B8%8ELinux%E9%82%A3%E4%BA%9B%E4%BA%8B-green)](https://blog.csdn.net/qq_16933601?spm=1000.2115.3001.5343)
+[![alt text](https://img.shields.io/badge/CSDN-%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%B8%8ELinux%E9%82%A3%E4%BA%9B%E4%BA%8B-lightgrey)](https://blog.csdn.net/qq_16933601?spm=1000.2115.3001.5343)
 
 [![alt text](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%B8%8ELinux%E9%82%A3%E4%BA%9B%E4%BA%8B-red)](https://www.cnblogs.com/dongxb/)
  
