@@ -74,6 +74,8 @@
 关注公众号【嵌入式与Linux那些事】，回复【offer】即可获取。
 # 赞赏
 
-创作不易，如果觉得这些资料对你有帮助，那就赞赏作者一杯奶茶吧！
+创作不易，如果觉得这些资料对你有帮助，那就可以赞赏**一块钱**给我，金额不重要，**我想看到你的头像出现在我列表里**。
 
-![](https://gitee.com/dongxingbo/Picture/raw/master//Wechat//%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.png)![](https://gitee.com/dongxingbo/Picture/raw/master//Wechat//%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.png)
+最后，祝愿各位老板，钱多多，offer多多，跳槽薪资double！
+
+![](https://github.com/ZhongYi-LinuxDriverDev/Picture/blob/main/Wechat/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.png)![](https://github.com/ZhongYi-LinuxDriverDev/Picture/blob/main/Wechat/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.png)
