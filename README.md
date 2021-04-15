@@ -78,4 +78,6 @@
 
 最后，祝愿各位老板，钱多多，offer多多，跳槽薪资double！
 
-![](https://github.com/ZhongYi-LinuxDriverDev/Picture/blob/main/Wechat/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.png)![](https://github.com/ZhongYi-LinuxDriverDev/Picture/blob/main/Wechat/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.png)
+![](https://github.com/ZhongYi-LinuxDriverDev/Picture/blob/main/Wechat/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.png)
+
+![](https://github.com/ZhongYi-LinuxDriverDev/Picture/blob/main/Wechat/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.png)
