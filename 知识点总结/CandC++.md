@@ -114,6 +114,7 @@
 ![](https://gitee.com/dongxingbo/Picture/raw/master/Wechat/%E5%8A%A8%E6%80%81%E5%BC%95%E5%AF%BC%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8F%B7.gif)
 
 # C/C++
+![](https://gitee.com/dongxingbo/Picture/raw/master//Wechat//CandC++%20-%20%E5%89%AF%E6%9C%AC.jpg)
 ## 关键字
 
 ### C语言宏中"#“和”##"的用法
