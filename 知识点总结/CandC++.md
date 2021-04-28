@@ -115,7 +115,7 @@
 
 # C/C++
 
-![](https://gitee.com/dongxingbo/Picture/raw/master//Wechat//CandC++%20-%20%E5%89%AF%E6%9C%AC.jpg)
+
 
 ## 关键字
 
