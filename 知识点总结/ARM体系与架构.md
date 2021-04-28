@@ -1,5 +1,6 @@
 
 
+- [PDF获取方式](#PDF获取方式)
 - [ARM体系与架构](#arm体系与架构)
   - [硬件基础](#硬件基础)
     - [NAND FLASH 和NOR FLASH异同？](#nand-flash-和nor-flash异同)
@@ -40,6 +41,11 @@
     - [如何进行大小端的转换？](#如何进行大小端的转换)
     - [如何对绝对地址0x100000赋值？](#如何对绝对地址0x100000赋值)
 - [结语](#结语)
+
+# PDF获取方式
+关注公众号【**嵌入式与Linux那些事**】，回复【**秋招大礼包**】即可获取。
+![](https://gitee.com/dongxingbo/Picture/raw/master/Wechat/%E5%8A%A8%E6%80%81%E5%BC%95%E5%AF%BC%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8F%B7.gif)
+
 # ARM体系与架构
 
 ![](https://gitee.com/dongxingbo/Picture/raw/master//Wechat/Article/2021/%E5%9B%9B%E6%9C%88//ARM%E4%BD%93%E7%B3%BB%E4%B8%8E%E6%9E%B6%E6%9E%84QQ%E6%88%AA%E5%9B%BE%E7%89%88%E6%9C%AC.png)
