@@ -6,6 +6,8 @@
   - [PDF获取方式](#pdf获取方式)
   - [勘误](#勘误)
   - [赞赏](#赞赏)
+  - [微信交流群干货分享](#微信交流群干货分享)
+  - [榜上有名](#榜上有名)
   
 
 **申明：本资料部分内容转载自网络，请勿用于商业用途。如有侵权，请联系作者删除。**
@@ -84,13 +86,7 @@
 
 [勘误](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/%E5%8B%98%E8%AF%AF.md)
 
-# 微信交流群干货分享
 
-[日常群聊分享（持续更新中~）](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7/%E5%BE%AE%E4%BF%A1%E7%BE%A4%E8%81%8A%E5%B9%B2%E8%B4%A7%E5%88%86%E4%BA%AB.md#%E6%89%AB%E7%A0%81%E5%8A%A0%E6%88%91%E5%BE%AE%E4%BF%A1)
-
-# 榜上有名
-
-[恭喜那些取得offer的同学](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7/%E6%81%AD%E5%96%9C%E9%82%A3%E4%BA%9B%E5%8F%96%E5%BE%97offer%E7%9A%84%E5%90%8C%E5%AD%A6.md)
 
 # 赞赏
 
@@ -101,3 +97,12 @@
 ![](https://github.com/ZhongYi-LinuxDriverDev/Picture/blob/main/Wechat/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.png)
 
 ![](https://github.com/ZhongYi-LinuxDriverDev/Picture/blob/main/Wechat/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.png)
+
+
+# 微信交流群干货分享
+
+[日常群聊分享（持续更新中~）](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7/%E5%BE%AE%E4%BF%A1%E7%BE%A4%E8%81%8A%E5%B9%B2%E8%B4%A7%E5%88%86%E4%BA%AB.md#%E6%89%AB%E7%A0%81%E5%8A%A0%E6%88%91%E5%BE%AE%E4%BF%A1)
+
+# 榜上有名
+
+[恭喜那些取得offer的同学](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7/%E6%81%AD%E5%96%9C%E9%82%A3%E4%BA%9B%E5%8F%96%E5%BE%97offer%E7%9A%84%E5%90%8C%E5%AD%A6.md)
