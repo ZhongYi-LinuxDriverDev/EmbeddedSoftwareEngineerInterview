@@ -4,6 +4,7 @@
   - [面试技巧](#面试技巧)
   - [面经总结](#面经总结)
   - [PDF获取方式](#pdf获取方式)
+  - [勘误](#勘误)
   - [赞赏](#赞赏)
   
 
@@ -78,6 +79,10 @@
 关注公众号【嵌入式与Linux那些事】，回复【offer】即可**获取最新版**。
 
 ![](https://github.com/ZhongYi-LinuxDriverDev/Picture/blob/main/Wechat/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+
+# 勘误
+
+[勘误](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/%E5%8B%98%E8%AF%AF.md)
 
 # 赞赏
 
