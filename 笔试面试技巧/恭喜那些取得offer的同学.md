@@ -15,6 +15,8 @@
 
 ![](https://gitee.com/dongxingbo/Picture/raw/master//Wechat/Article/2021/%E5%9B%9B%E6%9C%88//20210430212316.jpg)
 
+![](https://gitee.com/dongxingbo/Picture/raw/master//Wechat/Article/2021/%E5%9B%9B%E6%9C%88//20210430212558.png)
+
 ## 扫码加我微信
 
 加我微信【LinuxDriverDev】，进技术交流群。
