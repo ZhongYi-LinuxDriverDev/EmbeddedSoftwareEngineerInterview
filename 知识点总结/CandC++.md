@@ -1304,6 +1304,10 @@ int main()
 
 ### 如何求解二进制中0的个数
 
+**图示分析(以25为例)：**
+
+![](https://gitee.com/dongxingbo/Picture/raw/master//Wechat/Article/2021/%E5%9B%9B%E6%9C%88//20210501151749.png)
+
 ```c
 int CountZeroBit(int num)
 {
