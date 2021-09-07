@@ -27,6 +27,8 @@
 
 **注意：不按照格式提交的，一律不采纳！**
 
+issues 提交链接：https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/issues
+
 # 如果你不会写markdown，可以直接复制下面的内容来进行填充！
 
 ```c
