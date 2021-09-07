@@ -20,7 +20,10 @@
 
 <font color=#0000FF size=4>整理不易，**希望大家能给个star支持下**，让我有继续更新下去的动力。</font>
 
-最后，祝各位老板，offer多多，钱多多，跳槽薪资double!
+<font color=#0000FF size=5> 哈喽，各位小伙伴好，应大家需求。我整理了一个面经模版，大家可以记录自己的秋招经历，在github上向我提交issues。我会把大家提交的issues同步到本仓库中，希望这个仓库可以帮助到更多的人！祝愿大家offer多多，钱多多，跳槽薪资double！</font>
+
+[issues提交模版](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/readme.md)
+
 
 # 非常抱歉，本仓库不再提供md源文件!PDF格式的文件放在了公众号，大家可以去公众号领取。
 ![图片](https://user-images.githubusercontent.com/45563242/117952196-8330de80-b347-11eb-8d3b-4344cb5f7f9d.png)
