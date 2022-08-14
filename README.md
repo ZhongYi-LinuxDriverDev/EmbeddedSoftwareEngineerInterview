@@ -80,7 +80,7 @@
 [oppo和海康嵌入式软件工程师面经总结](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/oppo%E5%92%8C%E6%B5%B7%E5%BA%B7%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB.md)
 ## PDF获取方式
 
-加我微信【LinuxDriverDev】，进技术交流群。
+加我微信【LinuxDriverDev】，发送【资料群】后自动拉进学习资料群。
 
 ![](https://github.com/ZhongYi-LinuxDriverDev/EmbeddedSoftwareEngineerInterview/blob/main/%E7%A7%8B%E6%8B%9B%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E4%B8%AA%E4%BA%BA%E4%BA%8C%E7%BB%B4%E7%A0%81-%E7%BE%8E%E5%8C%96.png)
 
